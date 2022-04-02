@@ -6,7 +6,7 @@ Inspired by https://github.com/alexandresanlim/alexandresanlim/blob/master/READM
 </h1>
 
 <p align='center'>
-  Rust/C++ engineer working on Web3.
+  Rust/C++ engineer working on web3 infrastructure.
 </p>
 
 
