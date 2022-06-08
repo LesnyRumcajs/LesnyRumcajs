@@ -15,7 +15,7 @@ Inspired by https://github.com/alexandresanlim/alexandresanlim/blob/master/READM
   
   <a href="https://www.linkedin.com/in/hubert-bugaj/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>&nbsp;&nbsp;
+  </a>
   <br>
     <img src="https://lesnyrumcajs.github.io/assets/mail.png" />
   &nbsp;&nbsp;
