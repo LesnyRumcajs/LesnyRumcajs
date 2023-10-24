@@ -5,21 +5,12 @@ Inspired by https://github.com/alexandresanlim/alexandresanlim/blob/master/READM
   Hello there 👋 I'm Hubert.
 </h1>
 
-<p align='center'>
-  Rust/C++ engineer working on web3 infrastructure.
-</p>
-
-
-
-<p align='center'>
+Rust/C++ engineer working on web3 infrastructure.
   
-  <a href="https://www.linkedin.com/in/hubert-bugaj/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <br>
-    <img src="https://lesnyrumcajs.github.io/assets/mail.png" />
-  &nbsp;&nbsp;
-</p>
+🔭 Currently, I'm working on [**Forest** 🌲](https://github.com/ChainSafe/forest), the Rust implementation of a Filecoin node.
+
+📫 Contact me at ![My bot-proof mai](https://lesnyrumcajs.github.io/assets/mail.png "My bot-proof mail").
+
 <!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lesnyrumcajs&show_icons=true&count_private=true&theme=dark" width="350"></a>
