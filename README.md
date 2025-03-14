@@ -9,7 +9,7 @@ Rust/C++ engineer working on web3 infrastructure.
   
 🔭 Currently, I'm working on [**Forest** 🌲](https://github.com/ChainSafe/forest), the Rust implementation of a Filecoin node.
 
-📫 Contact me at ![My bot-proof mai](https://lesnyrumcajs.github.io/assets/mail.png "My bot-proof mail").
+📫 Contact me at pr.approval@rumcajs.dev
 
 <!--
 <p align='center'>
