@@ -9,8 +9,6 @@ Rust/C++ engineer working on web3 infrastructure.
   
 🔭 Currently, I'm working on [**Forest** 🌲](https://github.com/ChainSafe/forest), the Rust implementation of a Filecoin node.
 
-📫 Contact me at pr.approval@rumcajs.dev
-
 <!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lesnyrumcajs&show_icons=true&count_private=true&theme=dark" width="350"></a>
