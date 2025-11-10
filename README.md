@@ -1,30 +1,7 @@
-<!--
-Inspired by https://github.com/alexandresanlim/alexandresanlim/blob/master/README.md
--->
-<h1 align='center'>
-  Hello there 👋 I'm Hubert.
-</h1>
+Rust/C++ engineer working on web3 infrastructure. Sometimes on other things - but always on OSS. :penguin: 
 
-Rust/C++ engineer working on web3 infrastructure.
-  
-🔭 Currently, I'm working on [**Forest** 🌲](https://github.com/ChainSafe/forest), the Rust implementation of a Filecoin node.
+🔭 Currently, I'm working on [Forest 🌲](https://github.com/ChainSafe/forest), the Rust implementation of a Filecoin node.
 
-<!--
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lesnyrumcajs&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
--->
-<!--
-**LesnyRumcajs/LesnyRumcajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://lesnyrumcajs.github.io/about/
-Here are some ideas to get you started:
+Want to send me some funny coins? Go ahead [here](https://etherscan.io/address/0xb8ba3cef9160daaab1ee9c22aa413051180f5375) :space_invader: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me at [pr.approval@rumcajs.dev](mailto:pr.approval@rumcajs.dev)
